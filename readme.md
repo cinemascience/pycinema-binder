@@ -1,4 +1,4 @@
-# pyinema JupyterLab Examples
+# `pycinema` JupyterLab Examples
 
 <p align="center">
 <table>
